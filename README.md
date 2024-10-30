@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Grace-Nwafor
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning a lot
-- 💞️ I’m looking to collaborate on great stuff
+- 🌱 I’m currently building stuff
+- 💞️ I’m looking to collaborate on building great stuff
 - 📫 How to reach me :(
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Nothing fun to know
